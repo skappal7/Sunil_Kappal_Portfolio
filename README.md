@@ -3,6 +3,7 @@ This is my data analytics portfolio site listing key projects that I have worked
 
 # [Project 1: Object-Detection Using Tiny Yolo in R](https://github.com/skappal7/Tiny-Yolo-Object-Detection)
 In this project I created a quick object detection model with a simple code block leveraging Tiny Yolo. Yolo (You Only Look Once) object detector is often cited as being one of the fastest deep-learning based object detectors.
+
 ![](/blob/master/predictions.png)
 
 # [Project 2: Logistic-Regression-Shiny-App](https://sunilkappal.shinyapps.io/Logistic_Regression_Data_Dojo/)
@@ -18,4 +19,4 @@ ARIMA with Fourier Transform
 TBATS
 hybrid forecast ensemble model
 
-![]((https://github.com/skappal7/Sunil-Kappal-Portfolio/blob/main/Images/1%20Time%20Series.JPG)
+![]((/Images/1%20Time%20Series.JPG)
