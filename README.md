@@ -18,4 +18,4 @@ ARIMA with Fourier Transform
 TBATS
 hybrid forecast ensemble model
 
-![]((/Images/1%20Time%20Series.JPG)
+![]((https://github.com/skappal7/Sunil-Kappal-Portfolio/blob/main/Images/1%20Time%20Series.JPG)
