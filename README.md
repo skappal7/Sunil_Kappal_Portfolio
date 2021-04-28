@@ -1,6 +1,9 @@
 # Sunil-Kappal-Portfolio
 Advance Data Science & Business Intelligence Professional
 
+![](/Images/About%20Sunil.png)
+
+
 # [Project 1: Object-Detection Using Tiny Yolo in R](https://github.com/skappal7/Tiny-Yolo-Object-Detection)
 In this project I created a quick object detection model with a simple code block leveraging Tiny Yolo. Yolo (You Only Look Once) object detector is often cited as being one of the fastest deep-learning based object detectors.
 
@@ -38,10 +41,3 @@ This text analytics app allows even a rookie NLP practioner to parse information
 ![](/Images/2%20Text%20Sentiment.PNG)
 
 ![](/Images/3%20Text%20Biagrams.PNG)
-
-
-
-
-
-
-
