@@ -26,7 +26,7 @@ This shiny app was create in collaboration with Rjshanahan where users can uploa
 *TBATS
 *Hybrid forecast ensemble model
 
-Note: In order to use this application your data should be in binary format (0,1)
+Note: In order to use this application your data should be in binary format (0,1) in csv format
 
 ![](/Images/1%20Time%20Series.JPG)
 
