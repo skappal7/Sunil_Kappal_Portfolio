@@ -41,7 +41,6 @@ This text analytics app allows even a rookie NLP practioner to parse information
 
 ![](/Images/3%20Text%20Biagrams.PNG)
 
-![](/Images/Contact%20Sunil.png)
 
 ![](/Images/Azure%20ML.png)
 
@@ -51,3 +50,7 @@ Employee retention plays an important role in the success of any organization an
 This model helped me to identify attritions indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
 
+
+
+
+![](/Images/Contact%20Sunil.png)
