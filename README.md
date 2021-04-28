@@ -12,7 +12,7 @@ In this project I created a quick object detection model with a simple code bloc
 *Later in collaboration with the datascience team created a realtime object detection module
 
 
-![](/Images/TinyYolo%20Pred.png s=200)
+![](/Images/TinyYolo%20Pred.png&s=200)
 
 # [Project 2: Logistic-Regression-Shiny-App](https://sunilkappal.shinyapps.io/Logistic_Regression_Data_Dojo/)
 The aim of this project was to create an app that can help its users to perform quick logistic regression routines without having to write numerous lines of codes.This app allows its users to generate Logistic Regression and SVM based models using R's famous CARET (Classification and Regression Training) Logreg and SVM packages.
