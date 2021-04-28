@@ -7,7 +7,7 @@ Advance Data Science & Business Intelligence Professional
 In this project I created a quick object detection model with a simple code block leveraging Tiny Yolo. Yolo (You Only Look Once) object detector is often cited as being one of the fastest deep-learning based object detectors.
 
 *Created a PoC concept to augment organizations sales pipeline
-*Later with in collaboration with the datascience team created a realtime object detection module
+*Later in collaboration with the datascience team created a realtime object detection module
 
 
 ![](/Images/TinyYolo%20Pred.png)
