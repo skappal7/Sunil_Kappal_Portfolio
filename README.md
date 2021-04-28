@@ -1,6 +1,5 @@
 # Sunil-Kappal-Portfolio
 Advance Data Science & Business Intelligence Professional
-
 ![](/Images/About%20Sunil.png)
 
 
