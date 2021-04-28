@@ -18,7 +18,7 @@ In this project I created a quick object detection model with a simple code bloc
 The aim of this project was to create an app that can help its users to perform quick logistic regression routines without having to write numerous lines of codes.This app allows its users to generate Logistic Regression and SVM based models using R's famous CARET (Classification and Regression Training) Logreg and SVM packages.
 
 
-<img src="/Images/Logistic%20Regression%20App.JPG" width="500" height="300">
+<img src="Images/Logistic%20Regression%20App.JPG" width="500" height="300">
 
 # [Project 3: Time Series Forecasting with Shiny](https://rjshanahan.shinyapps.io/Time-Series-Forecasting-with-Shiny/)
 This shiny app was create in collaboration with Rjshanahan where users can upload their own CSV with single or multiple daily time series. The user interace allows users to compare fitted time series models and forecasts with several algorithms including:
@@ -37,11 +37,11 @@ Note: In order to use this application your data should be in binary format (0,1
 # [Project 4: Text Analytics Shiny App](https://sunilkappal.shinyapps.io/Text_Sentiment_Analysis/)
 This text analytics app allows even a rookie NLP practioner to parse information out of spreadsheets or text documents allowing them to answer a series of cross-cutting questions. In this project contains customized R’s “tidytext” and “plotly” packages and UVM’s “LabMTsimple” sentiment dictionary for textual and sentiment analysis and various intervention points for users to subset the data, ask it guided questions and produce exploratory data visualizations.
 
-<img src="/Images/1%20Text%20Sentiment.PNG" width="500" height="300">
+<img src="Images/1%20Text%20Sentiment.PNG" width="500" height="300">
 
-<img src="/Images/2%20Text%20Sentiment.PNG" width="500" height="300">
+<img src="Images/2%20Text%20Sentiment.PNG" width="500" height="300">
 
-<img src="/Images/3%20Text%20Biagrams.PNG" width="500" height="300">
+<img src="Images/3%20Text%20Biagrams.PNG" width="500" height="300">
 
 
 ![](/Images/Azure%20ML.png)
@@ -52,8 +52,8 @@ Employee retention plays an important role in the success of any organization an
 This model helped me to identify attritions indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
 # Badges and Accreditations
-![](/Images/Wharton%20Alumni.png) ![](/Images/penn-logo.png) ![](/Images/Tableau%20Data%20Scientist.png) ![](/Images/IBM%201.png) 
+![](Images/Wharton%20Alumni.png) ![](/Images/penn-logo.png) ![](/Images/Tableau%20Data%20Scientist.png) ![](/Images/IBM%201.png) 
                                                           
 
 
-![](/Images/Contact%20Sunil.png)
+![](Images/Contact%20Sunil.png)
