@@ -51,6 +51,10 @@ Employee retention plays an important role in the success of any organization an
 
 This model helped me to identify attritions indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
+# Data Chat Shows & Webinars
+
+[![](http://img.youtube.com/vi/iycFFbhZf-Y/0.jpg)](http://www.youtube.com/watch?v=iycFFbhZf-Y "Sunil Kappal on Data Driven Chat Show")
+
 # Badges and Accreditations
 <img src="Images/Wharton%20Alumni.png" width="100" height="100"> <img src="Images/penn-logo.png" width="100" height="100"> <img src="Images/Tableau%20Data%20Scientist.png" width="100" height="100"> <img src="Images/IBM%201.png" width="100" height="100"> <img src="Images/1%20H2o.png" width="100" height="100">  <img src="Images/2%20H2o.png" width="100" height="100">
                                                           
