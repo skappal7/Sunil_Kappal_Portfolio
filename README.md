@@ -37,11 +37,11 @@ Note: In order to use this application your data should be in binary format (0,1
 # [Project 4: Text Analytics Shiny App](https://sunilkappal.shinyapps.io/Text_Sentiment_Analysis/)
 This text analytics app allows even a rookie NLP practioner to parse information out of spreadsheets or text documents allowing them to answer a series of cross-cutting questions. In this project contains customized R’s “tidytext” and “plotly” packages and UVM’s “LabMTsimple” sentiment dictionary for textual and sentiment analysis and various intervention points for users to subset the data, ask it guided questions and produce exploratory data visualizations.
 
-![](/Images/1%20Text%20Sentiment.PNG)
+<img src="/Images/1%20Text%20Sentiment.PNG" width="500" height="300">
 
-![](/Images/2%20Text%20Sentiment.PNG)
+<img src="/Images/2%20Text%20Sentiment.PNG" width="500" height="300">
 
-![](/Images/3%20Text%20Biagrams.PNG)
+<img src="/Images/3%20Text%20Biagrams.PNG" width="500" height="300">
 
 
 ![](/Images/Azure%20ML.png)
