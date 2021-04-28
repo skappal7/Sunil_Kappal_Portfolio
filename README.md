@@ -54,6 +54,6 @@ This model helped me to identify attritions indicators at the early stage and re
 # Badges and Accreditations
 <img src="Images/Wharton%20Alumni.png" width="100" height="100"> <img src="Images/penn-logo.png" width="100" height="100"> <img src="Images/Tableau%20Data%20Scientist.png" width="100" height="100"> <img src="Images/IBM%201.png" width="100" height="100"> <img src="Images/1%20H2o.png" width="100" height="100">  <img src="Images/2%20H2o.png" width="100" height="100">
                                                           
-
+![](Images/Github.png)(https://github.com/skappal7) ![](Images/LinkedIn.png)(https://www.linkedin.com/in/skappal/) ![](Images/Twitter.png)(https://twitter.com/skappal) ![](Images/wordpress.png)(https://skappal7.wordpress.com/)
 
 ![](Images/Contact%20Sunil.png)
