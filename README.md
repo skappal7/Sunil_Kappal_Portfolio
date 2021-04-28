@@ -17,6 +17,7 @@ In this project I created a quick object detection model with a simple code bloc
 # [Project 2: Logistic-Regression-Shiny-App](https://sunilkappal.shinyapps.io/Logistic_Regression_Data_Dojo/)
 The aim of this project was to create an app that can help its users to perform quick logistic regression routines without having to write numerous lines of codes.This app allows its users to generate Logistic Regression and SVM based models using R's famous CARET (Classification and Regression Training) Logreg and SVM packages.
 
+Note: In order to use this application your data should be in binary format (0,1) in csv format
 
 <img src="Images/Logistic%20Regression%20App.JPG" width="500" height="300">
 
@@ -30,7 +31,6 @@ This shiny app was create in collaboration with Rjshanahan where users can uploa
 *TBATS
 *Hybrid forecast ensemble model
 
-Note: In order to use this application your data should be in binary format (0,1) in csv format
 
 <img src="Images/1%20Time%20Series.JPG" width="500" height="300">
 
