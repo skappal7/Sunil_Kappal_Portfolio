@@ -42,3 +42,12 @@ This text analytics app allows even a rookie NLP practioner to parse information
 ![](/Images/3%20Text%20Biagrams.PNG)
 
 ![](/Images/Contact%20Sunil.png)
+
+![](/Images/Azure%20ML.png)
+
+# [Project 5: HR Analytics Employee Attrition](https://gallery.azure.ai/Experiment/HR-Analytics-Predict-Employee-Attrition)
+Employee retention plays an important role in the success of any organization and the effectiveness of its HR department. To make this experiment even more interesting, I have used the Permutation Feature Importance widget that can be used to compute the variable importance given the scores based on the trained model and test data. This model was consumed via webservice as an Azure Webservice Plugin.
+
+This model helped me to identify attritions indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
+
+
