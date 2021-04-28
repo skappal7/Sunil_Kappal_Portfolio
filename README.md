@@ -52,7 +52,7 @@ Employee retention plays an important role in the success of any organization an
 This model helped me to identify attritions indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
 # Badges and Accreditations
-<img src="Images/Wharton%20Alumni.png" width="200" height="200"> <img src="Images/penn-logo.png" width="200" height="200"> <img src="Images/Tableau%20Data%20Scientist.png" width="200" height="200"> <img src="Images/IBM%201.png" width="200" height="200">
+<img src="Images/Wharton%20Alumni.png" width="100" height="100"> <img src="Images/penn-logo.png" width="100" height="100"> <img src="Images/Tableau%20Data%20Scientist.png" width="100" height="100"> <img src="Images/IBM%201.png" width="100" height="100">
                                                           
 
 
