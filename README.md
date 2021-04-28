@@ -33,6 +33,12 @@ This text analytics app allows even a rookie NLP practioner to parse information
 
 ![](/Images/1%20Text%20Sentiment.png)
 
+![](/Images/2%20Text%20Sentiment.png)
+
+![](/Images/3%20Text%20Biagrams.png)
+
+
+
 
 
 
