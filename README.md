@@ -1,7 +1,7 @@
-![](/Images/About%20Sunil.png)
+![](Images/About%20Sunil.png)
 
 
-![](/Images/R%20Shiny.png)
+![](Images/R%20Shiny.png)
 
 
 
