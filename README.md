@@ -31,7 +31,7 @@ This shiny app was create in collaboration with Rjshanahan where users can uploa
 # [Project 4: Text Analytics Shiny App](https://github.com/skappal7/Shiny-Text-Analytics-App)
 This text analytics app allows even a rookie NLP practioner to parse information out of spreadsheets or text documents allowing them to answer a series of cross-cutting questions. In this project contains customized R’s “tidytext” and “plotly” packages and UVM’s “LabMTsimple” sentiment dictionary for textual and sentiment analysis and various intervention points for users to subset the data, ask it guided questions and produce exploratory data visualizations.
 
-![] (/Images/1%20Text%20Sentiment.PNG)
+![](/Images/1%20Text%20Sentiment.PNG)
 
 
 
