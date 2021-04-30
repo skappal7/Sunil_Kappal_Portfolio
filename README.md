@@ -51,6 +51,11 @@ Employee retention plays an important role in the success of any organization an
 
 This model helped me to identify attrition indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
+# [Data Visualization Using R]
+
+
+
+
 # Data Chat Shows & Webinars
 
 [![](http://img.youtube.com/vi/iycFFbhZf-Y/0.jpg)](http://www.youtube.com/watch?v=iycFFbhZf-Y "Sunil Kappal on Data Driven Chat Show") [![](http://img.youtube.com/vi/HHuycOe4ZZQ/0.jpg)](http://www.youtube.com/watch?v=HHuycOe4ZZQ "Webinar: Risk Analysis Using Conversational Data")
