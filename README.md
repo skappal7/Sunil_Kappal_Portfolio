@@ -55,6 +55,17 @@ This model helped me to identify attrition indicators at the early stage and red
 
 <img src="Images/1%20Word%20Tree%20in%20R.gif" width="500" height="300"> <img src="Images/R%20Visuals%20Interactive.gif" width="500" height="300">
 
+Chatbot Prototype
+
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https:&#x2F;&#x2F;storage.googleapis.com&#x2F;cloudprod-apiai&#x2F;5895266b-5160-4fee-b16d-d07618b0e107_x.png"
+  intent="WELCOME"
+  chat-title="Hypothesis_Analysis_Stat_Bot"
+  agent-id="4e5304df-74d9-41c3-bf2e-48c63d9004b8"
+  language-code="en"
+></df-messenger>
+
 # Data Chat Shows & Webinars
 
 [![](http://img.youtube.com/vi/iycFFbhZf-Y/0.jpg)](http://www.youtube.com/watch?v=iycFFbhZf-Y "Sunil Kappal on Data Driven Chat Show") [![](http://img.youtube.com/vi/HHuycOe4ZZQ/0.jpg)](http://www.youtube.com/watch?v=HHuycOe4ZZQ "Webinar: Risk Analysis Using Conversational Data")
