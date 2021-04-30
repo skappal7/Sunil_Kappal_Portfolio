@@ -53,7 +53,9 @@ This model helped me to identify attrition indicators at the early stage and red
 
 # Data Visualization Using R
 
-<img src="Images/1%20Word%20Tree%20in%20R.gif" width="500" height="300">  <img src="Images/Line%20Charts.gif" width="500" height="300">  <img src="Images/Racing%20Bars.gif" width="500" height="300">
+<img src="Images/1%20Word%20Tree%20in%20R.gif" width="500" height="300">
+<img src="Images/Line%20Charts.gif" width="500" height="300">
+<img src="Images/Racing%20Bars.gif" width="500" height="300">
 
 
 # Data Chat Shows & Webinars
