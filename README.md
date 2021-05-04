@@ -3,7 +3,7 @@
 
 ![](Images/R%20Shiny.png)
 
-
+[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=skappal7)](https://github.com/skappal7/github-readme-stats)
 
 # [Project 1: Object-Detection Using Tiny Yolo in R](https://github.com/skappal7/Tiny-Yolo-Object-Detection)
 In this project I created a quick object detection model with a simple code block leveraging Tiny Yolo. Yolo (You Only Look Once) object detector is often cited as being one of the fastest deep-learning based object detectors.
@@ -61,7 +61,5 @@ This model helped me to identify attrition indicators at the early stage and red
 
 # Badges and Accreditations
 <img src="Images/Wharton%20Alumni.png" width="100" height="100"> <img src="Images/penn-logo.png" width="100" height="100"> <img src="Images/Tableau%20Data%20Scientist.png" width="100" height="100"> <img src="Images/IBM%201.png" width="100" height="100"> <img src="Images/1%20H2o.png" width="100" height="100">  <img src="Images/2%20H2o.png" width="100" height="100">
-
-[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=skappal7)](https://github.com/skappal7/github-readme-stats)
-                                                          
+                                                       
 ![](Images/Contact%20Sunil.png)
