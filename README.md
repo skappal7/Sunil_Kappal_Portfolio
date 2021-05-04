@@ -61,5 +61,7 @@ This model helped me to identify attrition indicators at the early stage and red
 
 # Badges and Accreditations
 <img src="Images/Wharton%20Alumni.png" width="100" height="100"> <img src="Images/penn-logo.png" width="100" height="100"> <img src="Images/Tableau%20Data%20Scientist.png" width="100" height="100"> <img src="Images/IBM%201.png" width="100" height="100"> <img src="Images/1%20H2o.png" width="100" height="100">  <img src="Images/2%20H2o.png" width="100" height="100">
+
+[![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=skappal7)](https://github.com/skappal7/github-readme-stats)
                                                           
 ![](Images/Contact%20Sunil.png)
