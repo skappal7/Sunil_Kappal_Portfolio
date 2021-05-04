@@ -5,9 +5,6 @@
 
 [![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=skappal7&show_icons=true&theme=radical&hide=prs,contribs)](https://github.com/skappal7/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skappal7&layout=compact)](https://github.com/skappal7/github-readme-stats)
-
 # [Project 1: Object-Detection Using Tiny Yolo in R](https://github.com/skappal7/Tiny-Yolo-Object-Detection)
 In this project I created a quick object detection model with a simple code block leveraging Tiny Yolo. Yolo (You Only Look Once) object detector is often cited as being one of the fastest deep-learning based object detectors.
 
