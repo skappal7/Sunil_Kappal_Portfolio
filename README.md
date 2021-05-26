@@ -51,7 +51,7 @@ Employee retention plays an important role in the success of any organization an
 
 This model helped me to identify attrition indicators at the early stage and reduced the attrition by almost 20% resulting in cost reduction related to new employee aquisition and trainings. 
 
-# PyCaret-Gradio-Heart Stroke Prediction-App 🔮
+# [Project 6: PyCaret-Gradio-Heart Stroke Prediction-App 🔮]
 This app is created using PyCaret low code machine learning library and Gradio an open source and easy-to-use UI for your ML model, function, or API with only a few lines of code. Integrate directly into your Python notebook, or share a link with anyone.
 
 The video belows shows a Heart Failure prediction (1 = Stroke & 0 = No Stroke) based on the selections made by the users. Gradio and PyCaret can be used to create compelling Ml PoCs. 
